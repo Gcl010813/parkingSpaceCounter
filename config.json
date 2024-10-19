@@ -1,0 +1,22 @@
+{
+  "thresholdCfg": 486,
+  "carCfg": {
+    "width": 76,
+    "height": 102
+  },
+  "commonCfg": {
+    "GaussianBlur_ksize": 3,
+    "adaptiveThreshold_blockSize": 25,
+    "adaptiveThreshold_c": 16,
+    "medianBlur_ksize": 5,
+    "dilate_kernel": 3
+  },
+  "customCfg": {
+    "GaussianBlur_ksize": 5,
+    "adaptiveThreshold_blockSize": 11,
+    "adaptiveThreshold_c": 3,
+    "medianBlur_ksize": 5,
+    "dilate_kernel": 1
+  },
+  "cameraUserPwd": "17550228932:whys0813"
+}
